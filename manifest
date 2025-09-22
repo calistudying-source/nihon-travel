@@ -1,0 +1,17 @@
+{
+  "name": "Calista Travel Buddy",
+  "short_name": "Calista",
+  "start_url": "/app",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#FFEBAA",
+  "theme_color": "#FFEBAA",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png" }
+  ],
+  "description": "Your Travel Buddy is your personal travel assistant, helping you plan and manage your trips effortlessly.",
+  "dir": "ltr",
+  "lang": "en-US",
+  "orientation": "portrait"
+}
